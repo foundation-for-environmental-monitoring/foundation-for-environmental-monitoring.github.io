@@ -5,7 +5,7 @@ title: "Foundation for Environmental Monitoring"
 
 <img src="{{ "/assets/images/logo.png" | relative_url }}">
 
-# Foundation for Environmental Monitring
+# Foundation for Environmental Monitoring
 
 ffem is a Bangalore, India based nonprofit working on open source technologies.
 

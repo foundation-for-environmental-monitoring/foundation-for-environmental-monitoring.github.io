@@ -1,0 +1,12 @@
+Samuel Rajkumar:
+  name        : "Samuel Rajkumar"
+  bio         : "I have been working with ffem since its inception in 2017, mostly managing products."
+  avatar      : "/assets/images/samuel_rajkumar.jpg"
+  links:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:srajkumar@ffem.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/aadvaark"

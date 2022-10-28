@@ -1,7 +1,12 @@
 ---
 permalink: /privacy/
 title: Privacy Policy
-layout: default
+layout: single
+sidebar:
+  nav: "about"
+header:
+  overlay_image: /assets/images/header_images/splash4.jpg
+  caption: "Photo credit: [Varsha S](https://www.instagram.com/moushis_magic/)"
 ---
 
 **License**

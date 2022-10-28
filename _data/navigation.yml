@@ -1,0 +1,17 @@
+main:
+  - title: "About Us"
+    url: /about/
+  - title: "Products"
+    url: /products/
+  - title: "Contact"
+    url: /contact/
+
+about:
+  - title: "About Us"
+    url: /about/
+  - title: "Annual Reports"
+    url: /annual_reports/
+  - title: "Privacy Policy"
+    url: /privacy/
+  - title: "Contact Us"
+    url: /contact/

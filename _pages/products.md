@@ -2,7 +2,8 @@
 permalink: /products/
 title: Products
 layout: single
-author_profile: true
+sidebar: 
+    nav: documentation
 header:
   overlay_image: /assets/images/header_images/splash5.jpg
   caption: "Photo credit: [Varsha S](https://www.instagram.com/moushis_magic/)"
@@ -32,4 +33,4 @@ ffem innovation has been in perfecting colorimetric tests that use smartphone ca
 * Organic Carbon
 
 ## Compost Tests
-Developed for Hasiru Dala Innovations, ffem's compost and soil test kits use the same colorimetric test for water, but adapted for compost and soil. Tests in this package include 25 tests each for Nitrogen, Phosphorous, Potassium and Organic Carbon.
+Developed for [Hasiru Dala Innovations](https://hasirudalainnovations.com/), compost and soil test kits use the same colorimetric test for water, but adapted for compost and soil. Tests in this package include 25 tests each for Nitrogen, Phosphorous, Potassium and Organic Carbon.

@@ -37,4 +37,4 @@ The place the stand over the cuvette, most tests use the white cuvette. The ring
 Decide the kind of calibration you need. Fewer calibration points with lower effort, or more calibraiton points with increased accuracy. [Minimal and Full Calibration](/manuals/calibration/) should help you decide and implement this strategy.
 
 ## Testing
-Once you have calibrate your phone, choose the parameter you want to test and get started.
+Once you have calibrated your phone, choose the parameter you want to test and get started.

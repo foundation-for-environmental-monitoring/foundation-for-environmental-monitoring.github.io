@@ -27,6 +27,8 @@ documentation:
     children:
       - title: "General Operation"
         url: "/manuals/general_operation/"
+      - title: "Precautions"
+        url: "/manuals/precautions/"
       - title: "Minimal and Full Calibration"
         url: "/manuals/calibration/"
       - title: "Colour / Hazen Units"

@@ -10,12 +10,9 @@ header:
 excerpt: "Getting started with ffem's products"
 ---
 ## Before you start
-Test kits from ffem and Hasiru Dala Innovations use chemicals as reagents. It is important that you exercise proper precautions while using and storing the kits.
+Make sure you understand the precautions you need to take to use these test kits before you begin to use them.
 
-* Store in a cool, dry place away from direct sunlight.
-* Keep away from children and animals
-* Do not allow the chemicals to come in contact with your skin or eyes. Recommended that you use appropriate [gloves](https://en.wikipedia.org/wiki/Medical_glove).
-* Dispose used reagent in the disposal bottle provided. This disposal bottle contains activated charcoal. Dry it out and then dispose the solid waste in your local chemical / hazardous waste process.
+[**Precautions**](/manuals/precautions/)
 
 The tests work only on Android phones with a camera of 8MP and over.
 

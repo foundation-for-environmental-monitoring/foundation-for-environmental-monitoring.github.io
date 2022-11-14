@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/header_images/brett-jordan-rhCZIm9pp54-unsplash.jpg
   caption: "Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on[Unsplash](https://unsplash.com/s/photos/manual?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
-ffem's product documentation has always lagged in the development process, a shortcoming we are no longer willing to put up with. Printed manuals packed with kits followed by calls from customers who aare lost will not the process we would like.
+ffem's product documentation has always lagged in the development process, a shortcoming we are no longer willing to put up with. Printed manuals packed with kits followed by calls from customers who are lost will not the process we would like.
 
 ## The Start Page
 A benefit of having a very short domain name is that you can read it out on a phone call. Our strategy is to now make the [ffem.io/start](https://ffem.io/start/) the page to go to after you have purchased a ffem product. From here you should be able to find information specific to the product you have, or even the specific version.

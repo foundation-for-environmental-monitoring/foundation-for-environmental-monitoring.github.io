@@ -17,5 +17,5 @@ Most tests use standard solutions, chemical reagents, and titrants. It is import
 * Conduct tests in well lit and well insulated areas away from direct sunlight.
 
 ## Disposal of reagents
-* Dispose used reagents in the bottle mrked for disposal. This bottle contains activated charcoal. Dry out the bottle outdoors to allow more liquids to be disposed.
+* Dispose used reagents in the bottle marked for disposal. This bottle contains activated charcoal. Dry out the bottle outdoors to allow more liquids to be disposed.
 * After using the entire kit, empty out the activaed charcoal and dipose it in your area's medical / hazardous waste facility. 

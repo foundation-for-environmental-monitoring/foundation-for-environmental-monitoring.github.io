@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/product_images/product_splash.png
 ---
 ## Principle
-Water colour is measured in Hazen Units (HU), and is a measure of the cleanness of the water source. Distilled water shoud have a colour of 0 HU.
+Water colour is measured in Hazen Units (HU), and is a measure of the cleanness of the water source. Distilled water should have a colour of 0 HU.
 
 The Indian Standard for drinking water holds that the acceptable limit is 5 Hazen Units, but in the absence of any other toxic substances or alternate source, this is relaxable upto 15 Hazen Units.
 

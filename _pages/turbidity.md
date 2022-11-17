@@ -16,6 +16,7 @@ The Indian Standard for drinking water holds that the acceptable limit is 1 NTU,
 To prepare calibration standards, take 10 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.
 
 **Full Calibration**
+
 | Standard | Drops |
 | --- | --- |
 | 0 NTU | 0 |
@@ -24,6 +25,7 @@ To prepare calibration standards, take 10 ml of distilled water. Depending on if
 | 30 NTU | 30 |
 
 **Minimal Calibration**
+
 | Standard | Drops |
 | --- | --- |
 | 0 NTU | 0 |

@@ -14,6 +14,7 @@ Iron is a colorimeteric test.
 To prepare calibration standards, take 5 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.
 
 **Full Calibration**
+
 | Standard | Drops |
 | --- | --- |
 | 0 mg/l | 0 |
@@ -22,7 +23,8 @@ To prepare calibration standards, take 5 ml of distilled water. Depending on if 
 | 1.5 mg/l | 3 |
 | 2 mg/l | 4 |
 
-**Full Calibration**
+**Minimal Calibration**
+
 | Standard | Drops |
 | --- | --- |
 | 0 mg/l | 0 |

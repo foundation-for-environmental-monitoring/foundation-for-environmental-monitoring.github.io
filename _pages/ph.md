@@ -8,10 +8,12 @@ header:
   overlay_image: /assets/images/product_images/product_splash.png
 ---
 ## Principle
-pH is a colorimeteric test.
+pH is a colorimeteric test. pH is a measure of how acidic or basic the water is.
+
+Indian standards for drinking water specify it to be within 6.5 and 8.5 with no relaxation.
 
 ## Calibration
-pH standards based on buffer solutions should be supplied to you. You shoule have standards of pH 4, 5, 6, 7, 8, 9 and 10.
+pH standards based on buffer solutions should be supplied to you. You should have standards of pH 4, 5, 6, 7, 8, 9 and 10.
 
 Take 5 ml of the pH standard, say 4, and add 1 drop of the pH indicator.
 

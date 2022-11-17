@@ -8,7 +8,9 @@ header:
   overlay_image: /assets/images/product_images/product_splash.png
 ---
 ## Principle
-Turbidity, measured in NTU is a colorimetric test with no reagents.
+Turbidity, measured in NTU is a colorimetric test with no reagents. Turbidity is a measure of how clear water is. Distilled water should have turbidity of 0 NTU.
+
+The Indian Standard for drinking water holds that the acceptable limit is 1 NTU, but in the absence of any other toxic substances or alternate source, this is relaxable upto 5 NTU.
 
 ## Calibration
 To prepare calibration standards, take 10 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.

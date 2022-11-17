@@ -8,7 +8,9 @@ header:
   overlay_image: /assets/images/product_images/product_splash.png
 ---
 ## Principle
-Fluoride is a colorimeteric test.
+Fluoride is a colorimeteric test. This test uses a modified SPADNS reagent.
+
+The Indian Standard for drinking water holds that the acceptable limit is 1 mg/l, but in the absence of any other toxic substances or alternate source, this is relaxable upto 1.5 mg/l.
 
 ## Calibration
 To prepare calibration standards, take 5 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.

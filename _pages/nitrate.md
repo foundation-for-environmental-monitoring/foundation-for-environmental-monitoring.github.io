@@ -13,11 +13,19 @@ Nitrate is a colorimeteric test.
 ## Calibration
 To prepare calibration standards, take 5 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.
 
+**Full Calibration**
 | Standard | Drops |
 | --- | --- |
 | 0 mg/l | 0 |
 | 10 mg/l | 2 |
 | 25 mg/l | 5 |
+| 50 mg/l | 10 |
+| 75 mg/l | 15 |
+
+**Minimal Calibration**
+| Standard | Drops |
+| --- | --- |
+| 0 mg/l | 0 |
 | 50 mg/l | 10 |
 | 75 mg/l | 15 |
 

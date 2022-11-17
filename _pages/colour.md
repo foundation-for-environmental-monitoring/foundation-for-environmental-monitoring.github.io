@@ -15,12 +15,20 @@ The Indian Standard for drinking water holds that the acceptable limit is 5 Haze
 ## Calibration
 To prepare calibration standards, take 5 ml of distilled water. Depending on if you chose [minimal or full calibration](/manual/calibration/), prepare standards as below.
 
+**Full Calibration**
 | Standard | Drops |
 | --- | --- |
 | 0 HU | 0 |
-| 25 HU | 5 |
-| 50 HU | 10 |
-| 100 HU | 20 |
+| 25 HU | 10 |
+| 50 HU | 20 |
+| 100 HU | 40 |
+
+**Minimal Calibration**
+| Standard | Drops |
+| --- | --- |
+| 0 HU | 0 |
+| 50 HU | 20 |
+| 100 HU | 40 |
 
 You do not need to add any reagent for this test.
 

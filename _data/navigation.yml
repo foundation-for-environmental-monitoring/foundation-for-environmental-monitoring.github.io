@@ -23,6 +23,8 @@ documentation:
     children:
       - title: "Quick Start"
         url: "/start/"
+      - title: "Download Manual"
+        url: "/assets/docs/ffem_lite.pdf"
   - title: "Manuals"
     children:
       - title: "General Operation"

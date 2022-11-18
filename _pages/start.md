@@ -12,6 +12,8 @@ excerpt: "Getting started with ffem's products"
 ## Before you start
 Make sure you understand the precautions you need to take to use these test kits before you begin to use them.
 
+[**Download Manual**](/assets/docs/ffem_lite.pdf)
+
 [**Precautions**](/manuals/precautions/)
 
 The tests work only on Android phones with a camera of 8MP and over.

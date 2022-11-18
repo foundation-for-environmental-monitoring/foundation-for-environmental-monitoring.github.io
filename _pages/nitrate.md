@@ -8,7 +8,9 @@ header:
   overlay_image: /assets/images/product_images/product_splash.png
 ---
 ## Principle
-Nitrate is a colorimeteric test.
+Nitrate is a colorimeteric test. This test uses 2 reagents per test that are shipped in small packets.
+
+The Indian Standard for drinking water holds that the acceptable limit is 45 mg/l with no relaxation.
 
 ## Calibration
 To prepare calibration standards, take 5 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.

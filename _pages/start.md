@@ -12,7 +12,7 @@ excerpt: "Getting started with ffem's products"
 ## Before you start
 Make sure you understand the precautions you need to take to use these test kits before you begin to use them.
 
-[**Download Manual**](/assets/docs/ffem_lite.pdf)
+[**Download the manual as a pdf**](/assets/docs/ffem_lite.pdf)
 
 [**Precautions**](/manuals/precautions/)
 
@@ -28,7 +28,7 @@ Typically a test kit should comprose
 * Reagents
 * TDS / EC meter if your order included it
 
-You can download the app from the Google Play Store here: [https://play.google.com/store/apps/details?id=io.ffem.lite](https://play.google.com/store/apps/details?id=io.ffem.lite)
+You can download the app from the Google Play Store here: [https://play.google.com/store/apps/details?id=io.ffem.match](https://play.google.com/store/apps/details?id=io.ffem.match)
 
 ## Using the kit
 The ring light supplied comes with a battery and a USB cable. Ensure the ring light is fully charged before using it. Clip it onto your phone so that the light encircles the camera. Pressing the light switch once turns it on to its lowest brightness, a second press moves it to the next brightness, and the third makes it brightest. A fourth press of the button will turn off the light. Put on the ring light at its brightest.

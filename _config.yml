@@ -40,6 +40,8 @@ whitelist:
 date_format: "%Y-%m-%d"
 
 search: true
+lunr:
+  search_within_pages: true
 
 analytics:
   provider: "google-gtag"

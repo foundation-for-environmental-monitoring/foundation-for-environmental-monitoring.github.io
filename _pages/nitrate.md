@@ -44,7 +44,7 @@ Take 5 ml of the 0 mg/l Nitrate standard, and add the contents of Reagent A and 
 * Click on `Start Camera`
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
 * Select `Analyze`.
-* This test takes 6 minutes (360 seconds) to develop ideal colour. Click on `Start Timer` to start a time, or you can `Skip Delay` if you have already waited 5 minutes.
+* This test takes 6 minutes (360 seconds) to develop ideal colour. Click on `Start Timer` to start a timer, or you can `Skip Delay` if you have already waited 5 minutes.
 * You should have your first calibration point. Repeat similarly with the other calibration points.
 
 ## Test
@@ -59,5 +59,5 @@ This test uses the Nitrate reagents.
 * Click on `Start Camera`
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
 * Select `Analyze`.
-* This test takes 6 minutes (360 seconds) to develop ideal colour. Click on `Start Timer` to start a time, or you can `Skip Delay` if you have already waited 5 minutes.
+* This test takes 6 minutes (360 seconds) to develop ideal colour. Click on `Start Timer` to start a timer, or you can `Skip Delay` if you have already waited 5 minutes.
 * After some time, the app will display a result.

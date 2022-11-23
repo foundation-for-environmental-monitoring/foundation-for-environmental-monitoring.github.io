@@ -13,7 +13,7 @@ Turbidity, measured in NTU is a colorimetric test with no reagents. Turbidity is
 The Indian Standard for drinking water holds that the acceptable limit is 1 NTU, but in the absence of any other toxic substances or alternate source, this is relaxable upto 5 NTU.
 
 ## Calibration
-To prepare calibration standards, take 10 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.
+To prepare calibration standards, take 20 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.
 
 **Full Calibration**
 
@@ -48,7 +48,7 @@ You do not need to add any reagent for this test. **Shake the standard solutions
 ## Test
 This test does not require a reagent.
 
-* Collect 10 ml of sample water and place in glass cuvette and in turn inside the blue cuvette.
+* Collect 20 ml of sample water and place in glass cuvette and in turn inside the blue cuvette.
 * Place the cuvette under the light stand.
 * Clip on the ring light over your phone and turn it on to maximum brightness
 * Place the phone over the stand

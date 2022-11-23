@@ -24,7 +24,7 @@ documentation:
       - title: "Quick Start"
         url: "/start/"
       - title: "Download Manual"
-        url: "/assets/docs/ffem_lite.pdf"
+        url: "/assets/docs/ffem_match.pdf"
   - title: "Manuals"
     children:
       - title: "General Operation"

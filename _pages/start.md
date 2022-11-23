@@ -9,10 +9,11 @@ header:
   caption: "Photo credit: [Varsha S](https://www.instagram.com/moushis_magic/)"
 excerpt: "Getting started with ffem's products"
 ---
-## Before you start
-Make sure you understand the precautions you need to take to use these test kits before you begin to use them.
 
 [**Download the manual as a pdf**](/assets/docs/ffem_match.pdf)
+
+## Before you start
+Make sure you understand the precautions you need to take to use these test kits before you begin to use them.
 
 [**Precautions**](/manuals/precautions/)
 

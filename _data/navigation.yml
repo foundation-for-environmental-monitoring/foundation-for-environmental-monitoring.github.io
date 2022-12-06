@@ -45,6 +45,8 @@ documentation:
         url: "/manuals/nitrate/"
       - title: "Total Iron"
         url: "/manuals/total_iron/"
+      - title: "Copper"
+        url: "/manuals/copper/"
       - title: "Total Hardness"
         url: "/manuals/total_hardness/"
       - title: "Total Alkalinity"

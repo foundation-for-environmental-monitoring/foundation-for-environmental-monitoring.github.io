@@ -53,7 +53,7 @@ This test uses the Copper Reagent.
 * Place the cuvette under the light stand.
 * Clip on the ring light over your phone and turn it on to maximum brightness.
 * Place the phone over the stand.
-* From the home screen choose `Colorimetric Test` > `Water` > `Total Iron`.
+* From the home screen choose `Colorimetric Test` > `Water` > `Copper`.
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.
 * Click on `Start Camera`.
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.

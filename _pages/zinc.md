@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/product_images/product_splash.png
 ---
 ## Principle
-Zinc is a colorimeteric test. This test uses a N-(1-napthyl)-ethyelnediamine reagent.
+Zinc is a colorimeteric test. This test uses 4 separately packed reagents.
 
 The Indian Standard for drinking water holds that the acceptable limit is 5 mg/L, but in the absence of any other toxic substances or an alternate source, this is relaxable upto 15 mg/L.
 
@@ -32,8 +32,8 @@ To prepare calibration standards, take 5 ml of distilled water. Depending on if 
 | Standard | Drops |
 | --- | --- |
 | 0 mg/l | 0 |
-| 0.05 mg/l | 1 |
-| 0.3 mg/l | 6 |
+| 0.05 mg/l | 10 |
+| 2.5 mg/l | 50 |
 
 Take 5 ml of the 0 mg/l Zinc standard, and add 10 drops of Zinc Reagent A, 5 drops of Zinc Reagent B, 5 drops of Zinc Reagent C, and 3 drops of Zinc Reagent D, and shake well.
 

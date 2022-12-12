@@ -55,6 +55,8 @@ documentation:
         url: "/manuals/ammonia/"
       - title: "Nitrite"
         url: "/manuals/nitrite/"
+      - title: "Zinc"
+        url: "/manuals/zinc/"
       - title: "Total Hardness"
         url: "/manuals/total_hardness/"
       - title: "Total Alkalinity"

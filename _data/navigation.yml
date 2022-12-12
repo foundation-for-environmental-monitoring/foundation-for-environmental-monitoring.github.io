@@ -53,6 +53,8 @@ documentation:
         url: "/manuals/chromium_vi/"
       - title: "Ammonia"
         url: "/manuals/ammonia/"
+      - title: "Nitrite"
+        url: "/manuals/nitrite/"
       - title: "Total Hardness"
         url: "/manuals/total_hardness/"
       - title: "Total Alkalinity"

@@ -48,7 +48,7 @@ Take 5 ml of the 0 mg/l Ammonia standard, and add 5 drops of Ammonia Reagent A a
 * You should have your first calibration point. Repeat similarly with the other calibration points.
 
 ## Test
-This test uses the Chromium Reagent A and Chromium Reagent B.
+This test uses the Ammonia Reagent A and Ammonia Reagent B.
 
 * Collect 5 ml of sample water, add 5 drops of Ammonia Reagent A, and 5 drops of Ammonia Reagent B, and place in the white cuvette.
 * Place the cuvette under the light stand.

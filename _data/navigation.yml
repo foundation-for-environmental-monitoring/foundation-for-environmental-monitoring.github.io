@@ -57,6 +57,8 @@ documentation:
         url: "/manuals/nitrite/"
       - title: "Zinc"
         url: "/manuals/zinc/"
+      - title: "Residual Chlorine"
+        url: "/manuals/residual_chlorine/"
       - title: "Total Hardness"
         url: "/manuals/total_hardness/"
       - title: "Total Alkalinity"

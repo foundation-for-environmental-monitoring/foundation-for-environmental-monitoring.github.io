@@ -30,8 +30,8 @@ To prepare calibration standards, take 5 ml of distilled water. Depending on if 
 | Standard | Drops |
 | --- | --- |
 | 0 mg/l | 0 |
-| 1 mg/l | 2 |
-| 2 mg/l | 4 |
+| 0.5 mg/l | 1 |
+| 1.5 mg/l | 3 |
 
 Take 5 ml of the 0 mg/l Copper standard, and add 5 drops of the Copper Reagent and shake well.
 

@@ -23,6 +23,7 @@ To prepare calibration standards, take 20 ml of distilled water. Depending on if
 | 10 NTU | 10 |
 | 20 NTU | 20 |
 | 30 NTU | 30 |
+| 40 NTU | 40 |
 
 **Minimal Calibration**
 
@@ -30,7 +31,7 @@ To prepare calibration standards, take 20 ml of distilled water. Depending on if
 | --- | --- |
 | 0 NTU | 0 |
 | 10 NTU | 10 |
-| 30 NTU | 30 |
+| 40 NTU | 40 |
 
 You do not need to add any reagent for this test. **Shake the standard solutions dropper bottle thoroughly**.
 

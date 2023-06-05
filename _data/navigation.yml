@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Products"
     url: /products/
+  - title: "Shop"
+    url: "https://shop.ffem.io"
   - title: "Blog"
     url: /blog/
   - title: "Contact"

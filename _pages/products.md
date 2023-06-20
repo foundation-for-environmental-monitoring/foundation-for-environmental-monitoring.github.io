@@ -5,12 +5,11 @@ layout: single
 sidebar: 
     nav: documentation
 header:
-  overlay_image: /assets/images/header_images/splash5.jpg
-  caption: "Photo credit: [Varsha S](https://www.instagram.com/moushis_magic/)"
+  overlay_image: /assets/images/header_images/product_page_header.jpg
 ---
 
 ## Water and Soil Tests
-ffem innovation has been in perfecting colorimetric tests that use smartphone cameras to automate colorimetric tests. In order to make a complete water test kit, the ffem test kit includes titration tests and a third party meter. ffem offers the following parameters
+ffem's innovation has been in perfecting colorimetric tests that use smartphone cameras to automate colorimetric tests. In order to make a complete water test kit, the ffem test kit includes titration tests and a third party meter. ffem offers the following parameters
 
 ### Water Quality Tests
 * Colour

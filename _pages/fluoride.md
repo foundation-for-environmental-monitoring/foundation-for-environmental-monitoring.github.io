@@ -52,6 +52,8 @@ Take 5 ml of the 0 mg/l Fluoride standard, and add 5 drops of the Fluoride reage
 ## Test
 This test uses the Fluoride reagent.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nXDoIiUw37c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 * Collect 5 ml of sample water, add 5 drops of Fluoride reagent and place in the white cuvette.
 * Place the cuvette under the light stand.
 * Clip on the ring light over your phone and turn it on to maximum brightness

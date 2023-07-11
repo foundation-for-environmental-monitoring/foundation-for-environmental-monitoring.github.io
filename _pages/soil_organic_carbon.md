@@ -15,7 +15,7 @@ Use the colour cards to calibrate for Organic Carbon.
 
 * Take the colour card for 0% Organic Carbon.
 * Place the cuvette under the light stand with the card over it.
-* Clip on the ring light over your phone and turn it on to maximum brightness
+* Turn on the lightbox.
 * Place the phone over the stand
 * Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Organic Carbon`
 * Select the calibration point, 0 in this case

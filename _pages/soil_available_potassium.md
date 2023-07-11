@@ -13,22 +13,32 @@ The amount or Potassium available for plant growth.
 ## Calibration
 To prepare calibration standards, take 5 ml of distilled water. Depending on if you chose minimal or full calibration, prepare standards as below.
 
+**Full Calibration**
+
 | Standard | Drops |
 | --- | --- |
-| 0 mg/l | 0 |
-| 10 mg/l | 5 |
-| 20 mg/l | 10 |
-| 30 mg/l | 15 |
-| 40 mg/l | 20 |
+| 0 kg/ha | 0 |
+| 10 kg/hal | 4 |
+| 20 kg/ha | 8 |
+| 30 kg/ha | 12 |
+| 40 kg/ha | 16 |
 
-Take 5 ml of the 0 mg/l Pottasium standard, and add 1 drop of Potassium Reagent A, shake and then add 5 drops of the Potassium Reagent B. Shake till dissolved.
+**Minimal Calibration**
 
-* Take the resulting coloured solution and fill it into the blue cuvette provided.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
+| Standard | Drops |
+| --- | --- |
+| 0 kg/ha | 0 |
+| 20 kg/ha | 8 |
+| 40 kg/ha | 16 |
+
+
+Take 5 ml of the 0 kg/ha Potassium standard, and add 5 drops of the Potassium Reagent A, and 10 drops of Potassium Reagent B. Shake till dissolved.
+
+* Take the resulting coloured solution and fill it into the **blue** cuvette provided. (Note this is the only test that uses the blue cuvette)
+* Place the cuvette under the light stand and turn it on.
 * Place the phone over the stand
-* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Potassium`
-* Select the calibration point, 0 mg/l in this case
+* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Available Potassium` under `Soil`
+* Select the calibration point, 0 kg/ha in this case
 * Click on `Start Camera`
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
 * Select `Analyze`
@@ -46,13 +56,12 @@ If you are doing Nitrogen, Potassium and Phosphorous tests for the same sample, 
 
 
 ## Test
-This test uses the Nitrogen reagents.
+This test uses the Potassium reagents.
 
-* Collect 5 ml of extracted solution, add 1 drop of Potassium Reagent A, shake and then add 5 drops of the Potassium Reagent B. Shake till dissolved.
-* Place in the blue cuvette and place under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
+* Collect 5 ml of extracted solution, add 5 drops of the Potassium reagent A, and 10 drops of Potassium Reagent B, and place in the blue cuvette.
+* Place the cuvette under the light stand and turn it on.
 * Place the phone over the stand
-* From the home screen choose `Colorimetric Test` > `Soil` > `Potassium`
+* From the home screen choose `Colorimetric Test` > `Soil` > `Available Potassium`
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.
 * Click on `Start Camera`
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.

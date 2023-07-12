@@ -16,8 +16,7 @@ pH standards based on buffer solutions should be supplied to you. You shoule hav
 Take 5 ml of the pH standard, say 4, and add 1 drop of the pH indicator.
 
 * Take the resulting coloured solution and fill it into the white cuvette provided.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
+* Place the cuvette under the light stand and turn it on.
 * Place the phone over the stand
 * Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `pH`
 * Select the calibration point, 4 in this case
@@ -37,8 +36,7 @@ Take 5 ml of the pH standard, say 4, and add 1 drop of the pH indicator.
 This test uses the pH indicator.
 
 * Collect 5 ml of extracted solution, add 1 drop of pH indicator and place in the white cuvette.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
+* Place the cuvette under the light stand and turn it on.
 * Place the phone over the stand
 * From the home screen choose `Colorimetric Test` > `Soil` > `pH`
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.

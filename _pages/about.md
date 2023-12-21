@@ -11,7 +11,7 @@ header:
 
 ### Legal Structure
 
-ffem is a nonprofit ([section 8](https://en.wikipedia.org/wiki/Non-profit_laws_of_India#Section-8_Company)) company based in Bangalore, India.
+ffem is a nonprofit ([section 8](https://en.wikipedia.org/wiki/Non-profit_laws_of_India#Section-8_Company)) company based in Bangalore, Karnataka, India.
 
 ### Philosophy
 

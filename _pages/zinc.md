@@ -38,8 +38,7 @@ To prepare calibration standards, take 5 ml of distilled water. Depending on if 
 Take 5 ml of the 0 mg/l Zinc standard, and add 10 drops of Zinc Reagent A, 5 drops of Zinc Reagent B, 5 drops of Zinc Reagent C, and 3 drops of Zinc Reagent D, and shake well.
 
 * Take the resulting coloured solution and fill it into the white cuvette provided.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
+* Place the cuvette under the light box and turn it on.
 * Place the phone over the stand.
 * Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Zinc`.
 * Select the calibration point, 0 mg/l in this case.
@@ -53,8 +52,7 @@ Take 5 ml of the 0 mg/l Zinc standard, and add 10 drops of Zinc Reagent A, 5 dro
 This test uses the four Zinc Reagents.
 
 * Collect 5 ml of sample water, add 10 drops of the Zinc Reagent A, 5 drops of Zinc Reagent B, 5 drops of Zinc Reagent C, and 3 drops of Zinc Reagent D, and place in the white cuvette.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness.
+* Place the cuvette under the light box and turn it on.
 * Place the phone over the stand.
 * From the home screen choose `Colorimetric Test` > `Water` > `Zinc`.
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.

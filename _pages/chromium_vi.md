@@ -37,8 +37,7 @@ To prepare calibration standards, take 5 ml of distilled water. Depending on if 
 Take 5 ml of the 0 mg/l Chromium standard, and add 2 drops of Chromium Reagent A and 5 Drops of Chromium Reagent B and shake well.
 
 * Take the resulting coloured solution and fill it into the white cuvette provided.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
+* Place the cuvette under the light box and turn it on.
 * Place the phone over the stand.
 * Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Chromium`.
 * Select the calibration point, 0 mg/l in this case.
@@ -51,8 +50,7 @@ Take 5 ml of the 0 mg/l Chromium standard, and add 2 drops of Chromium Reagent A
 This test uses the Chromium Reagent A and Chromium Reagent B.
 
 * Collect 5 ml of sample water, add 2 drops of Chromium Reagent A, and 5 drops of Chromium Reagent B, and place in the white cuvette.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness.
+* Place the cuvette under the light box and turn it on. 
 * Place the phone over the stand.
 * From the home screen choose `Colorimetric Test` > `Water` > `Chromium`.
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.

@@ -36,14 +36,13 @@ To prepare calibration standards, take 5 ml of distilled water. Depending on if 
 Take 5 ml of the 0 mg/l Iron standard, and add 3 drops of Reagent A, shake well, then add 20 drops of Reagent B and shake well.
 
 * Take the resulting coloured solution and fill it into the white cuvette provided.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
-* Place the phone over the stand
-* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Total Iron`
-* Select the calibration point, 0 mg/l in this case
-* Click on `Start Camera`
+* Place the cuvette under the light box and turn it on.
+* Place the phone over the stand.
+* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Total Iron`.
+* Select the calibration point, 0 mg/l in this case.
+* Click on `Start Camera`.
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
-* Select `Analyze`
+* Select `Analyze`.
 * This test takes 5 minutes (300 seconds) to develop ideal colour. Click on `Start Timer` to start a timer, or you can `Skip Delay` if you have already waited 5 minutes.
 * You should have your first calibration point. Repeat similarly with the other calibration points.
 
@@ -51,12 +50,11 @@ Take 5 ml of the 0 mg/l Iron standard, and add 3 drops of Reagent A, shake well,
 This test uses the Iron Reagents.
 
 * Collect 5 ml of sample water, add 3 drops of Reagent A, shake well, and add 20 drops of Reagent B, shake well, and place in the white cuvette.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
-* Place the phone over the stand
-* From the home screen choose `Colorimetric Test` > `Water` > `Total Iron`
+* Place the cuvette under the light box and turn it on.
+* Place the phone over the stand.
+* From the home screen choose `Colorimetric Test` > `Water` > `Total Iron`.
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.
-* Click on `Start Camera`
+* Click on `Start Camera`.
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
 * Select `Analyze`.
 * This test takes 5 minutes (300 seconds) to develop ideal colour. Click on `Start Timer` to start a timer, or you can `Skip Delay` if you have already waited 5 minutes.

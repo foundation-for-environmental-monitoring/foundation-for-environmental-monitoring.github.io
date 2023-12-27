@@ -13,7 +13,7 @@ Total Alkalinity is a titration test.
 The Indian Standard for drinking water holds that the acceptable limit is 200 mg/l, but in the absence of any other toxic substances or alternate source, this is relaxable upto 600 mg/l.
 
 ## Calibration
-No calibration is needed for this test
+No calibration is needed for this test.
 
 ## Test
 Total Alkalinity is the sum of P and T Alkalinity.

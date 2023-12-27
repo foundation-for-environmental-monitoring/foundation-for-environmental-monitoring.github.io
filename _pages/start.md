@@ -20,10 +20,10 @@ Make sure you understand the precautions you need to take to use these test kits
 The tests work only on Android phones with a camera of 8MP and over.
 
 ## Unboxing
-Typically a test kit should comprose
+Typically a test kit should comprise
 
 * Stand
-* Ring light
+* Light box
 * Measuring tubes
 * Calibration standards
 * Reagents

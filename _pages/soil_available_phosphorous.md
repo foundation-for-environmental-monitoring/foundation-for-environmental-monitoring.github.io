@@ -36,14 +36,13 @@ To prepare calibration standards, take 5 ml of distilled water. Depending on if 
 Take 5 ml of the 0 kg/ha Phosphorous standard, and add 5 drops of the Phosphorous Reagent. Shake till dissolved.
 
 * Take the resulting coloured solution and fill it into the white cuvette provided.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
-* Place the phone over the stand
-* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Available Phosphorous` under `Soil`
-* Select the calibration point, 0 mg/l in this case
-* Click on `Start Camera`
+* Place the cuvette under the light box and turn it on.
+* Place the phone over the stand.
+* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Available Phosphorous` under `Soil`.
+* Select the calibration point, 0 mg/l in this case.
+* Click on `Start Camera`.
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
-* Select `Analyze`
+* Select `Analyze`.
 * You should have your first calibration point. Repeat similarly with the other calibration points.
 
 ## Extraction
@@ -52,7 +51,7 @@ Prepare an extraction solution by dissolving 1 teaspoon of table salt to 1 liter
 * Take 5 ml of soil in the measuring spoon.
 * Fill 25 ml of extraction solution in the measuring tube, and add the 5 ml of soil.
 * Close the tube, shake well and leave to settle.
-* Filter out the top clear layer of extracted solution
+* Filter out the top clear layer of extracted solution.
 
 If you are doing Nitrogen, Potassium and Phosphorous tests for the same sample, you can use the same extracted solution for the three tests.
 
@@ -61,11 +60,11 @@ If you are doing Nitrogen, Potassium and Phosphorous tests for the same sample, 
 This test uses the Phosphorous reagent.
 
 * Collect 5 ml of extracted solution, add 5 drops of the Phosphorous reagent and place in the white cuvette.
-* Place the cuvette under the light stand and turn it on.
-* Place the phone over the stand
-* From the home screen choose `Colorimetric Test` > `Soil` > `Available Phosphorous`
+* Place the cuvette under the light box and turn it on.
+* Place the phone over the stand.
+* From the home screen choose `Colorimetric Test` > `Soil` > `Available Phosphorous`.
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.
-* Click on `Start Camera`
+* Click on `Start Camera`.
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
-* Select `Analyze`
+* Select `Analyze`.
 * After some time, the app will display a result.

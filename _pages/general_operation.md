@@ -15,7 +15,7 @@ Colorimetry is principle of measuring the concentrations of analytes by measurin
 
 Before you begin to test using colorimetry, you need to calibrate your phone. The calibration step creates an internal table with which colours captured by the camera are compared with. There are two kind of calibrations offered: [the minimal calibration and the complete calibration](/manuals/calibration/).
 
-Colorimetric testing is carried out by mixing the sample with the reagent in the quantities and method specified. The resulting solution is then placed in the appropriate cuvette. Clip the ring light over your phone and turn it on to its brightest setting. Place the cuvette under the light stand and the phone over the light stand. Position the cuvette so that it is directly under the camera and the sampling circle is in the brightest central spot. On analysing the colour, the app with match it with the calibration table and produce an interpolated result.
+Colorimetric testing is carried out by mixing the sample with the reagent in the quantities and method specified. The resulting solution is then placed in the appropriate cuvette. Place the cuvette under the light box and turn it on. Place the phone over the stand. Position the cuvette so that it is directly under the camera and the sampling circle is in the brightest central spot. On analysing the colour, the app will match it with the calibration table and produce an interpolated result.
 
 The exact steps to be followed for testing are listed against each parameter.
 

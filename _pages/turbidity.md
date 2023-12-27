@@ -36,26 +36,24 @@ To prepare calibration standards, take 20 ml of distilled water. Depending on if
 You do not need to add any reagent for this test. **Shake the standard solutions dropper bottle thoroughly**.
 
 * Take the 0 standard and fill it into the glass cuvette provided. Place the glass cuvette inside the blue cuvette.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
-* Place the phone over the stand
-* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Turbidity`
-* Select the calibration point, 0.00 NTU in this case
-* Click on `Start Camera`
+* Place the cuvette under the light box and turn it on.
+* Place the phone over the stand.
+* Go to `Settings` > `Colorimetric Test` > `Calibrate` and choose `Turbidity`.
+* Select the calibration point, 0.00 NTU in this case.
+* Click on `Start Camera`.
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
-* Select `Analyze`
+* Select `Analyze`.
 * You should have your first calibration point. Repeat similarly with the other calibration points.
 
 ## Test
 This test does not require a reagent.
 
 * Collect 20 ml of sample water and place in glass cuvette and in turn inside the blue cuvette.
-* Place the cuvette under the light stand.
-* Clip on the ring light over your phone and turn it on to maximum brightness
-* Place the phone over the stand
-* From the home screen choose `Colorimetric Test` > `Water` > `Turbidity`
+* Place the cuvette under the light box and turn it on. 
+* Place the phone over the stand.
+* From the home screen choose `Colorimetric Test` > `Water` > `Turbidity`.
 * Choose `No Dilution` if this is the first test, you might have to dilute the sample and retry later if you get an error.
-* Click on `Start Camera`
+* Click on `Start Camera`.
 * Position the cuvette so that the middle, most uniformly lit portion is within the circle.
-* Select `Analyze`
+* Select `Analyze`.
 * After some time, the app will display a result.

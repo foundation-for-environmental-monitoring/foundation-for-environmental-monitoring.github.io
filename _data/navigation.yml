@@ -61,6 +61,8 @@ documentation:
         url: "/manuals/zinc/"
       - title: "Residual Chlorine"
         url: "/manuals/residual_chlorine/"
+      - title: "Potassium"
+        url: "/manuals/potassium/"
       - title: "Total Hardness"
         url: "/manuals/total_hardness/"
       - title: "Total Alkalinity"
